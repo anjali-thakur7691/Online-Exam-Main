@@ -1,0 +1,42 @@
+[
+    {
+        "question_id": 1,
+        "question": "What is Python?",
+        "option_a": "Programming Language",
+        "option_b": "Animal",
+        "option_c": "Browser",
+        "option_d": "Editor",
+        "correct_answer": "Programming Language",
+        "marks": 1
+    },
+    {
+        "question_id": 2,
+        "question": "What is Java ?",
+        "option_a": "P L",
+        "option_b": "Coffee",
+        "option_c": "Browser",
+        "option_d": "Editor",
+        "correct_answer": "P L",
+        "marks": 1
+    },
+    {
+        "question_id": 4,
+        "question": "What is coding ?",
+        "option_a": "Line by Line instruction ",
+        "option_b": "Writing Code",
+        "option_c": "Giving Instruction",
+        "option_d": "All of them",
+        "correct_answer": "Line by Line instruction ",
+        "marks": 1
+    },
+    {
+        "question_id": 101,
+        "question": "What is the method used to add element at the end of a list?",
+        "option_a": "add()",
+        "option_b": "append()",
+        "option_c": "insert()",
+        "option_d": "extend()",
+        "correct_answer": "B",
+        "marks": 1
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "test_id": 101,
+        "title": "Python Basics",
+        "duration": 10,
+        "questions": [
+            1
+        ]
+    },
+    {
+        "test_id": 102,
+        "title": "Java Basics",
+        "duration": 10,
+        "questions": [
+            1
+        ]
+    },
+    {
+        "test_id": 201,
+        "title": "Python Test",
+        "duration": 30,
+        "questions": [
+            101
+        ]
+    },
+    {
+        "test_id": 202,
+        "title": "java Test",
+        "duration": 30,
+        "questions": [
+            4
+        ]
+    }
+]
