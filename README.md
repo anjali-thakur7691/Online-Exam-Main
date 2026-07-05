@@ -1,7 +1,7 @@
 # 🎓 Online Exam Management System
 
 <p align="center">
-  <img src="student image" alt="Student Image" width="100"/>
+  <img src="student image/student.png.png">
 </p>
 
 ### *A Smart & User-Friendly Online Examination Platform*
