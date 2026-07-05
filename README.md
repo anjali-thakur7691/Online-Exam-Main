@@ -1,5 +1,11 @@
 # 🎓 Online Exam Management System
 
+<p align="center">
+  <img src="student.png" alt="Student Image" width="100"/>
+</p>
+
+### *A Smart & User-Friendly Online Examination Platform*
+
 A modern **Online Exam Management System** built with **Python** and **Streamlit**. This application allows administrators to create exams and students to take tests online with automatic result generation.
 
 ---
